@@ -1,0 +1,17 @@
+
+# Node dependencies
+node_modules/
+npm-debug.log
+
+# Mac-specifika filer
+.DS_Store
+
+# Miljövariabler
+.env
+
+# VSCode settings (valfritt)
+.vscode/
+
+# Build artifacts
+dist/
+build/
