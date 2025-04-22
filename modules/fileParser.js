@@ -1,0 +1,1 @@
+// Analys av PDF, text, bilder
